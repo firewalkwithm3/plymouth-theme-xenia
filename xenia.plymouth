@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Xenia
+Description=Plymouth theme featuring Xenia the fox.
+ModuleName=script
+
+[script]
+ImageDir=@IMAGES@
+ScriptFile=@IMAGES@/xenia.script
